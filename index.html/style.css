@@ -1,0 +1,213 @@
+body{
+   
+  height:150vh;
+  background-image: url("annie-spratt-0ZPSX_mQ3xI-unsplash.jpg");
+  
+  
+}
+
+
+.hhh{
+  padding-left: 10%;
+  font-size: 100%;
+  font-family: "sofia",sans-serif;
+  color: rebeccapurple;
+  
+}
+
+.hdf{
+  padding-left: 10%;
+}
+
+.con{
+  padding-left: 10%;
+  
+}
+.d{
+  height: 50%;
+  width:100%;
+ position: relative;
+  border-radius: 20%;
+
+}
+
+.img{
+  object-fit: contain;
+  height: 40%;
+  display: block;
+  border-radius: 50%;
+  border-style: groove;
+  position: absolute;
+  right: 200px;
+  top: 200px;
+  
+  
+}
+
+.img2{
+  height: 100%;
+  width: 100%;
+ border-bottom: 50px;
+ border-radius: 10%;
+  
+}
+
+.h{
+ object-fit: contain ;
+ position: absolute;
+ left: 30px;
+ top: 100px;
+ font-family: "Sofia", sans-serif;
+ font-size: 400%;
+ color: antiquewhite;
+}
+
+.hh{
+  object-fit: contain;
+  position: absolute;
+  left: 30px;
+  top: 400px;
+  font-family: "Sofia",sans-serif;
+  color: azure;
+}
+
+.progress {
+  
+  border: 1px solid #B0B0B0;
+  width: 20em;
+  border-radius: 4px;
+  box-shadow: 0 0 3px #B0B0;
+  backdrop-filter: blur(2px) brightness(101%);
+}
+
+.bar {
+  
+  width: 20em;
+  background: #FFF5E4;
+  box-shadow: inset 0px 12px 1.7px #FFFFFF33;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+}
+
+.bar.spanish {
+  
+  background: #FFE3E1;
+  width: 82%;
+}
+
+.bar.italian {
+  
+  background:#FFD1D1;
+  width: 70%;
+}
+
+.bar.french {
+  
+  background: #FF9494;
+  width: 65%;
+}
+
+.bar.croatian {
+  
+  background: orange;
+  width: 44%;
+}
+
+.bar.russian {
+  background: darkorange;
+  width: 37%;
+}
+
+.bar.albanian {
+  
+  background: tomato;
+  width: 21%;
+}
+.cont{
+  padding-left: 10%;
+  border-left:5px solid black ;
+  border-right: 5px solid black;
+  width:500px;
+}
+
+.fl{
+  display: flex;
+}
+
+.q{
+  font-family: "sofia",sans-serif;
+  padding-left: 150px;
+  color: rebeccapurple;
+  font-size: 100%;
+}
+
+.v{
+  padding-left: 100px;
+}
+.one{
+  color: aliceblue;
+}
+.two{
+  color: aliceblue;
+}
+.three{
+  color: aliceblue;
+}
+.four{
+  color: aliceblue;
+}
+.five{
+  color:aliceblue
+}
+.six{
+  color:aliceblue
+}
+.seven{
+  color: aliceblue;
+}
+.pic{
+  object-fit: contain;
+  height: 50px;
+}
+.write{
+  padding-left: 600px;
+  color:#2653AF;
+  font-family: "sofia",sans-serif;
+}
+.social{
+  padding-left: 500px;
+  font-size: 200%;
+  color:rebeccapurple;
+  font-family: "sofia",sans-serif;
+}
+.adj{
+  display: flex;
+  padding-left: 100px;
+}
+.in{
+  padding-left: 200px;
+  height: 50%;
+}
+.fa-instagram{
+  padding-left: 400px;
+  font-size: 100px;
+  border-right: 5px solid black ;
+  width:100px;
+
+}
+
+.fa-facebook{
+  padding-left: 10px;
+  font-size: 100px;
+  border-right: 5px solid black ;
+  width:100px;
+
+}
+.fa-twitter{
+  padding-left: 10px;
+  font-size: 100px;
+  border-right: 5px solid black ;
+  width:100px;
+
+}
